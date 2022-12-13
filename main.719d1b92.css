@@ -2,7 +2,7 @@
     font-display: fallback;
     font-family: VK Sans Display;
     font-weight: 500;
-    src: url(../../static/media/7082adfe0b49e2f8da5b.7082adfe0b49e2f8da5b.woff2) format("woff2"),url(../../static/media/5c1a8c271e68390145da.5c1a8c271e68390145da.woff) format("woff")
+    src: url(https://static.vk.com/static/media/7082adfe0b49e2f8da5b.7082adfe0b49e2f8da5b.woff2) format("woff2"),url(https://static.vk.com/static/media/5c1a8c271e68390145da.5c1a8c271e68390145da.woff) format("woff")
 }
 
 .vkuiChipsSelect {
@@ -12885,7 +12885,7 @@
 }
 
 .IndigoButton_button__5HDgn {
-    background-image: url(../../static/media/colored_noise.db4ab65883d9e7da4bdd.jpg);
+    background-image: url(https://static.vk.com/static/media/colored_noise.db4ab65883d9e7da4bdd.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: auto 100%;
@@ -12894,7 +12894,7 @@
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .IndigoButton_button__5HDgn {
-        background-image:url(../../static/media/colored_noise_2x.bcd212220d19a732db7d.jpg)
+        background-image:url(https://static.vk.com/static/media/colored_noise_2x.bcd212220d19a732db7d.jpg)
     }
 }
 
@@ -13921,7 +13921,7 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .Pixels_pixel1__Pm-mx {
-        background-image:url(../../static/media/pixels1_2x.b91d4e51a3b1e8843aff.png)
+        background-image:url(https://static.vk.com/static/media/pixels1_2x.b91d4e51a3b1e8843aff.png)
     }
 
     .Pixels_pixel2__UdmSg {
@@ -13929,15 +13929,15 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
     }
 
     .Pixels_pixel3__z5I1v {
-        background-image: url(../../static/media/pixels3_2x.032231cd3ff87d637d59.png)
+        background-image: url(https://static.vk.com/static/media/pixels3_2x.032231cd3ff87d637d59.png)
     }
 
     .Pixels_pixel4__Pkt2I {
-        background-image: url(../../static/media/pixels4_2x.1442954c5eb81d4b3f34.png)
+        background-image: url(https://static.vk.com/static/media/pixels4_2x.1442954c5eb81d4b3f34.png)
     }
 
     .Pixels_pixel5__h8IvK {
-        background-image: url(../../static/media/pixels5_2x.b0a71ff7f356fc8db7eb.png)
+        background-image: url(https://static.vk.com/static/media/pixels5_2x.b0a71ff7f356fc8db7eb.png)
     }
 }
 
@@ -14176,7 +14176,7 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 
 .HomeTab_connectNFT__yasf6 {
     align-items: center;
-    background: #111112 url(../../static/media/no_wallet_bg.72a6619592a90a93f5eb.jpg) 50% 80% no-repeat;
+    background: #111112 url(https://static.vk.com/static/media/no_wallet_bg.72a6619592a90a93f5eb.jpg) 50% 80% no-repeat;
     background-size: 100% auto;
     border-radius: 12px;
     box-sizing: border-box;
@@ -14190,7 +14190,7 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .HomeTab_connectNFT__yasf6 {
-        background-image:url(../../static/media/no_wallet_bg_2x.85a9f4ef9ec66232c0fd.jpg)
+        background-image:url(https://static.vk.com/static/media/no_wallet_bg_2x.85a9f4ef9ec66232c0fd.jpg)
     }
 }
 
@@ -14212,7 +14212,7 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .HomeTab_connectNFT__logo__DFluH {
-        background-image:url(../../static/media/logo_2x.fe6311e092f5c8337599.png)
+        background-image:url(https://static.vk.com/static/media/logo_2x.fe6311e092f5c8337599.png)
     }
 }
 
@@ -14326,7 +14326,7 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 }
 
 .HomeTab_promoBanner__logo__8xP1v {
-    background: url(../../static/media/nft_logo.35d9d9f7c6c1ad4b71bf.png) 50% no-repeat;
+    background: url(https://static.vk.com/static/media/nft_logo.35d9d9f7c6c1ad4b71bf.png) 50% no-repeat;
     background-size: 140px;
     height: 140px;
     margin-right: 60px;
@@ -14334,7 +14334,7 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 }
 
 .HomeTab_promoBannerMobile__Fkurm .HomeTab_promoBanner__logo__8xP1v {
-    background: url(../../static/media/mobile_nft_logo.1a3953a0f93afb60f15b.png) 50% no-repeat;
+    background: url(https://static.vk.com/static/media/mobile_nft_logo.1a3953a0f93afb60f15b.png) 50% no-repeat;
     background-size: 90px;
     height: 90px;
     margin: 35px 0 20px;
@@ -14343,11 +14343,11 @@ body[scheme=space_gray] .ShowcaseSettings_gradient__9IrbG,body[scheme=vkcom_dark
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .HomeTab_promoBanner__logo__8xP1v {
-        background-image:url(../../static/media/nft_logo_2x.f7d5721780514117a1f1.png)
+        background-image:url(https://static.vk.com/static/media/nft_logo_2x.f7d5721780514117a1f1.png)
     }
 
     .HomeTab_promoBannerMobile__Fkurm .HomeTab_promoBanner__logo__8xP1v {
-        background-image: url(../../static/media/mobile_nft_logo_2x.cdf10b740816afba7a25.png)
+        background-image: url(https://static.vk.com/static/media/mobile_nft_logo_2x.cdf10b740816afba7a25.png)
     }
 }
 
@@ -14861,7 +14861,7 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 
 .Onboarding_swiper__slide__image_block__BHEUi {
     align-items: flex-start;
-    background: #111112 url(../../static/media/slide_bg.72a6619592a90a93f5eb.jpg) 50% no-repeat;
+    background: #111112 url(https://static.vk.com/static/media/slide_bg.72a6619592a90a93f5eb.jpg) 50% no-repeat;
     background-size: 100%;
     border-radius: 0 0 40px 40px;
     display: flex;
@@ -14874,7 +14874,7 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .Onboarding_swiper__slide__image_block__BHEUi {
-        background-image:url(../../static/media/slide_bg_2x.85a9f4ef9ec66232c0fd.jpg)
+        background-image:url(https://static.vk.com/static/media/slide_bg_2x.85a9f4ef9ec66232c0fd.jpg)
     }
 }
 
@@ -14942,14 +14942,14 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 }
 
 .Onboarding_swiper__slide__image_block_mobile__ZWBDu {
-    background-image: url(../../static/media/mobile_slide_bg.9fa1c9d027873ea6784f.jpg);
+    background-image: url(https://static.vk.com/static/media/mobile_slide_bg.9fa1c9d027873ea6784f.jpg);
     height: 423px;
     margin-bottom: auto
 }
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .Onboarding_swiper__slide__image_block_mobile__ZWBDu {
-        background-image:url(../../static/media/mobile_slide_bg_2x.566ec05e27fcac9cb279.jpg)
+        background-image:url(https://static.vk.com/static/media/mobile_slide_bg_2x.566ec05e27fcac9cb279.jpg)
     }
 }
 
@@ -15540,12 +15540,12 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 
 .NoiseBox_noiseBox__coqge {
     --noise-box-border-radius: 24px;
-    background-image: url(../../static/media/noise.ba0b1cefce1568a95f7e.png),linear-gradient(1turn,hsla(0,0%,100%,.005),rgba(206,183,255,.13));
+    background-image: url(https://static.vk.com/static/media/noise.ba0b1cefce1568a95f7e.png),linear-gradient(1turn,hsla(0,0%,100%,.005),rgba(206,183,255,.13));
     border-radius: var(--noise-box-border-radius)
 }
 
 .NoiseBox_noiseBox__coqge.NoiseBox_light__lMndD {
-    background-image: url(../../static/media/noise.ba0b1cefce1568a95f7e.png),linear-gradient(180deg,#2b2833,rgba(24,22,29,0) 170.7%)
+    background-image: url(https://static.vk.com/static/media/noise.ba0b1cefce1568a95f7e.png),linear-gradient(180deg,#2b2833,rgba(24,22,29,0) 170.7%)
 }
 
 .Slide_slide__P4kJx {
@@ -15632,7 +15632,7 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 }
 
 .Head_sprite__n0AU7 {
-    background-image: url(../../static/media/logo.9d2201bdc1f8084c1a3b.webp);
+    background-image: url(https://static.vk.com/static/media/logo.9d2201bdc1f8084c1a3b.webp);
     background-size: cover;
     flex-shrink: 0;
     height: 172px;
@@ -15821,7 +15821,7 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 }
 
 .Spotty_sprite__ksJ8z {
-    background-image: url(../../static/media/spotty.4966519102c904a06809.webp);
+    background-image: url(https://static.vk.com/static/media/spotty.4966519102c904a06809.webp);
     background-size: cover;
     border-radius: 16px;
     padding-top: 100%;
@@ -15891,15 +15891,15 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 }
 
 .BuyNft_panel1__WX9PQ {
-    background-image: url(../../static/media/panel1.0b3e63d8678f9cef4385.png)
+    background-image: url(https://static.vk.com/static/media/panel1.0b3e63d8678f9cef4385.png)
 }
 
 .BuyNft_panel2__aFNGx {
-    background-image: url(../../static/media/panel2.08fbc8f1ca009bfcb20d.png)
+    background-image: url(https://static.vk.com/static/media/panel2.08fbc8f1ca009bfcb20d.png)
 }
 
 .BuyNft_panel3__w3xvk {
-    background-image: url(../../static/media/panel3.6da6612183b5dae63f1a.png)
+    background-image: url(https://static.vk.com/static/media/panel3.6da6612183b5dae63f1a.png)
 }
 
 .BuyNft_buyNft__SR8xP:not(.BuyNft_compact__\+p6A5) .BuyNft_panels__StX5r {
@@ -16169,7 +16169,7 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 
 .CryptoSchoolHome_header__EvqXr .vkuiPanelHeader__in {
     align-items: flex-start;
-    background: #000 url(../../static/media/bg.89134e5d47ed0be0348f.jpg) 50% no-repeat;
+    background: #000 url(https://static.vk.com/static/media/bg.89134e5d47ed0be0348f.jpg) 50% no-repeat;
     background-size: 660px;
     border-radius: 0 0 20px 20px!important;
     height: 152px
@@ -16181,7 +16181,7 @@ body[scheme=bright_light] .Onboarding_onboardingPanel__2G7Ut .Panel__in,body[sch
 
 @media (-webkit-min-device-pixel-ratio: 2) {
     .CryptoSchoolHome_header__EvqXr .vkuiPanelHeader__in {
-        background-image:url(../../static/media/bg_2x.2a18f8137709cc311a96.jpg)
+        background-image:url(https://static.vk.com/static/media/bg_2x.2a18f8137709cc311a96.jpg)
     }
 }
 
@@ -16654,7 +16654,7 @@ body[scheme=space_gray] .CryptoSchoolLesson_buttons_bar__SfaHL,body[scheme=vkcom
 
 @font-face {
     font-family: VKSans;
-    src: url(../../static/media/VKSans.c0b9bed9292477947a38.ttf) format("truetype")
+    src: url(https://static.vk.com/static/media/VKSans.c0b9bed9292477947a38.ttf) format("truetype")
 }
 
 * {
